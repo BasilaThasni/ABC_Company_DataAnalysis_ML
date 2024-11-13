@@ -27,3 +27,6 @@ The dataset provided by ABC Company includes the following columns:
 4.Highest Salary Expenditure by Team and Position: Group data by "Team" and "Position" to find which combinations have the highest salary totals.
 5.Correlation Analysis: Calculate and visualize the correlation between employee age and salary.
 
+#CONCLUSION:
+
+##*The data shows that distribution of employees with each and every factor like salary expenditure,age,positions represents a balanced structure.No any predominant factor which lies far above or below any factor.This insight helps the company to understand their distribution and can do the required changes.*
